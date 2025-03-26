@@ -1,1 +1,2 @@
 # Python-33-keywords
+This project contains Python programs that demonstrate the usage of all Python keywords in a structured and meaningful way. The programs cover fundamental programming concepts such as logical operations, loops, conditional statements, function definitions, exception handling, class usage, file handling, and more. Each keyword is used in an appropriate context with explanations provided in the code
